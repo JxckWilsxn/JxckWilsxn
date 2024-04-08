@@ -2,8 +2,8 @@
 Hello and Welcome 🌎
 </p>
 
-<h2 align"center">About Me ☄️</h2>
-<h3 align"center"> My name is Jack, and I am an aspiring Frontend Web Developer currently located in Edinburgh, United Kingdom. 🖥️ </h3>
+<h2 align="center" >About Me ☄️</h2>
+<h3 align="center" > My name is Jack, and I am an aspiring Frontend Web Developer currently located in Edinburgh, United Kingdom. 🖥️ </h3>
 
 <ul>
  <li>
