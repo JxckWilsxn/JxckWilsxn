@@ -1,5 +1,5 @@
-<p align="center">
-# Hello and Welcome 🌎
+<h1 align="center">
+Hello and Welcome 🌎
 </p>
 
 ## About Me ☄️
