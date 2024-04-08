@@ -7,16 +7,15 @@ Hello and Welcome 🌎
 
 <ul>
  <li>
- My programming journey consists of studying Software Development at university level as well as self-teaching myself in my free time. 
- Outside of University, I use Udemy courses and Frontend Mentor to build on my current knowledge and build my own responsive frontend projects. During my studies I have learned the basics such as HTML, CSS, and Javscript. I am on track and aim to learn about React, React Native, Typescript, and Vue to further increase my learning and workplace adaptability.
+ My programming journey consists of studying Software Development at university level as well as self-teaching myself in my free time. Outside of University, I use Udemy courses and Frontend Mentor to build on my current knowledge and build my own responsive frontend projects. During my studies, I have learned the basics, such as HTML, CSS, and JavaScript. I am on track and aim to learn about React, React Native, Typescript, and Vue to further increase my learning and workplace adaptability.
  </li>
  
  <li>
-  I am fully open to collaborating on frontend based projects with others so please feel free to reach out. I have some experiance in frontend collaboration projects that I have done during my universal studies. I would like to get some experiance on working on a few of these outside of school!
+  I am fully open to collaborating on frontend-based projects with others, so please feel free to reach out. I have some experience with frontend collaboration projects that I have done during my universal studies. I would like to get some experience working on a few of these outside of school!
  </li>
 
  <li>
-  I also am very interested to hear about how to apply for frontend positions and any advice from experianced developers for how to boost myself in the current job market. Any advice on these types of topics I would be highly interested in to advance my knowledge.
+  I am also very interested to hear about how to apply for frontend positions and any advice from experienced developers on how to boost myself in the current job market. Any advice on these types of topics would be highly    appreciated to advance my knowledge.
  </li>
 
  <li>
