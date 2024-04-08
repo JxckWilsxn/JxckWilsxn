@@ -12,18 +12,24 @@ Hello and Welcome 🌎
  </li>
  
  <li>
-  I am fully open to collaborating on projects with others so please feel free to reach out. I have some experiance in frontend collaboration projects that I have done during my universal studies. I would like to get some experiance on working on a few of these outside of school!
+  I am fully open to collaborating on frontend based projects with others so please feel free to reach out. I have some experiance in frontend collaboration projects that I have done during my universal studies. I would like to get some experiance on working on a few of these outside of school!
  </li>
 
  <li>
-  I also am very interested to hear from experianced developers about what is expected in a professional setting for a frontend developer and tips for how to boost myself in the current job market to actually get hired. Any advice on these types of topics I would be highly interested in to advance my knowledge in this part of my journey.
+  I also am very interested to hear about how to apply for frontend positions and any advice from experianced developers for how to boost myself in the current job market. Any advice on these types of topics I would be highly interested in to advance my knowledge.
  </li>
 
  <li>
-  <h2>Wanting to reach me?</h2>
-  <p>Easiest way to reach me is through: jack.k.wilson04@gmail.com</p>
+   <p>My portfolio containing my best projects is available here: <a href="link to future portfolio here"</p>
+ </li>
+ 
+ <li>
+  <h2>Wanting to contact me?</h2>
+  <p>Easiest way to reach me is through: <a href ="jack.k.wilson04@gmail.com"</a></p>
+
+   <h2>Connect with me elsewhere:</h2>
   <p>
-   <a href ="https://www.linkedin.com/in/jack-wilson-316b9529b/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45"/>     
+   <a href ="https://www.linkedin.com/in/jack-wilson-316b9529b/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45"</a>     
   </p>
  </li>
 </ul>
