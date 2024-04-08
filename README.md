@@ -7,7 +7,7 @@ Hello and Welcome 🌎
 
 <ul>
  <li>
- My programming journey consists of studying Software Development at university level as well as self-teaching myself in my free time. Outside of University, I use Udemy courses and Frontend Mentor to build on my current knowledge and build my own responsive frontend projects. During my studies, I have learned the basics, such as HTML, CSS, and JavaScript. I am on track and aim to learn about React, React Native, Typescript, and Vue to further increase my learning and workplace adaptability.
+ My programming journey consists of studying Software Development at university level as well as self-teaching myself in my free time. Outside of University, I use Udemy courses and Frontend Mentor to build on my current knowledge and build my own responsive frontend projects. During my studies, I have learned the basics, such as <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>. I am on track and aim to learn about <strong>React</strong>, <strong>React Native</strong>, <strong>Typescript</strong>, and <strong>Vue</strong> to further increase my learning and workplace adaptability.
  </li>
  <br>
  <li>
