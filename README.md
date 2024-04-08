@@ -9,24 +9,24 @@ Hello and Welcome 🌎
  <li>
  My programming journey consists of studying Software Development at university level as well as self-teaching myself in my free time. Outside of University, I use Udemy courses and Frontend Mentor to build on my current knowledge and build my own responsive frontend projects. During my studies, I have learned the basics, such as HTML, CSS, and JavaScript. I am on track and aim to learn about React, React Native, Typescript, and Vue to further increase my learning and workplace adaptability.
  </li>
- 
+ <br>
  <li>
   I am fully open to collaborating on frontend-based projects with others, so please feel free to reach out. I have some experience with frontend collaboration projects that I have done during my universal studies. I would like to get some experience working on a few of these outside of school!
  </li>
-
+ <br>
  <li>
   I am also very interested to hear about how to apply for frontend positions and any advice from experienced developers on how to boost myself in the current job market. Any advice on these types of topics would be highly    appreciated to advance my knowledge.
  </li>
-
+ <br>
  <li>
    <p>My portfolio containing my best projects is available here: <a href="link to future portfolio here">link to future portfolio here</p>
    </li>
-    
+  <br> 
   <h2>Wanting to contact me?</h2>
   <li>
    <p>Easiest way to reach me is through: <a href ="jack.k.wilson04@gmail.com">jack.k.wilson04@gmail.com</a></p>
   </li>
-    
+  <br> 
    <h2>Connect with me elsewhere:</h2>
   <p>
    <a href ="https://www.linkedin.com/in/jack-wilson-316b9529b/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45"</a> 
