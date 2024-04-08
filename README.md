@@ -20,16 +20,17 @@ Hello and Welcome 🌎
  </li>
 
  <li>
-   <p>My portfolio containing my best projects is available here: <a href="link to future portfolio here" target="_blank"</p>
- </li>
- 
- <li>
+   <p>My portfolio containing my best projects is available here: <a href="link to future portfolio here">link to future portfolio here</p>
+   </li>
+    
   <h2>Wanting to contact me?</h2>
-  <p>Easiest way to reach me is through: <a href ="jack.k.wilson04@gmail.com" target="_blank"</a></p>
-
+  <li>
+   <p>Easiest way to reach me is through: <a href ="jack.k.wilson04@gmail.com">jack.k.wilson04@gmail.com</a></p>
+  </li>
+    
    <h2>Connect with me elsewhere:</h2>
   <p>
-   <a href ="https://www.linkedin.com/in/jack-wilson-316b9529b/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45"</a>     
+   <a href ="https://www.linkedin.com/in/jack-wilson-316b9529b/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45"</a> 
   </p>
  </li>
 </ul>
