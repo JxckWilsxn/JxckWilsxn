@@ -1,4 +1,6 @@
+<p align="center">
 # Hello and Welcome 🌎
+</p>
 
 ## About Me ☄️
 My name is Jack Wilson, and I am an aspiring Frontend Web Developer. 🖥️
@@ -14,9 +16,10 @@ There won't be much on here for now, but I aim to change that in the coming mont
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
+ <!--
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="vue" width="45" height="45"/>
-                    
+-->
           
  </p>
 
