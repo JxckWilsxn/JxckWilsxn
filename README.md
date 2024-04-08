@@ -24,7 +24,7 @@ Hello and Welcome 🌎
   <br> 
     
   <li>
-   <p>Easiest way to reach me is through: <a href ="jack.k.wilson04@gmail.com">jack.k.wilson04@gmail.com</a></p>
+   <p>Easiest way to reach me is through: <a href ="mailto:jack.k.wilson04@gmail.com">jack.k.wilson04@gmail.com</a></p>
   </li>
  </ul>
     
