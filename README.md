@@ -22,7 +22,7 @@ Hello and Welcome 🌎
    <p>My portfolio containing my best projects is available here: <a href="link to future portfolio here">link to future portfolio here</p>
    </li>
   <br> 
-  <h2>Wanting to contact me?</h2>
+    
   <li>
    <p>Easiest way to reach me is through: <a href ="jack.k.wilson04@gmail.com">jack.k.wilson04@gmail.com</a></p>
   </li>
