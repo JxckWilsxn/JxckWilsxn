@@ -26,13 +26,14 @@ Hello and Welcome 🌎
   <li>
    <p>Easiest way to reach me is through: <a href ="jack.k.wilson04@gmail.com">jack.k.wilson04@gmail.com</a></p>
   </li>
+ </ul>
+    
   <br> 
    <h2>Connect with me elsewhere:</h2>
   <p>
    <a href ="https://www.linkedin.com/in/jack-wilson-316b9529b/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45"</a> 
   </p>
- </li>
-</ul>
+
 
 <h2>Languages & Tools 👾✍️</h2>
 <p align="left">
