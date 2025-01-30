@@ -1,5 +1,5 @@
 <h1 align="center">
-Hello and Welcome 🌎
+<b><i>Hello and Welcome</i></b>
 </p>
 
 <h2 align="center" >About Me ☄️</h2>
