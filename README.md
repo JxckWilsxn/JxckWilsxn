@@ -3,6 +3,7 @@
 </p>
 
 <h2 align="center" >About Me ☄️</h2>
+![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
 <h3 align="center" > My name is Jack, and I am an aspiring Frontend Web Developer currently located in Edinburgh.</h3>
 
 <ul>
