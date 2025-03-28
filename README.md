@@ -23,11 +23,7 @@
    <p>My portfolio containing my best projects is available here: <a href="link to future portfolio here">link to future portfolio here</p>
    </li>
   <br> 
-    
-  <li>
-   <p>Easiest way to reach me is through: <a href ="mailto:jack.k.wilson04@gmail.com">jack.k.wilson04@gmail.com</a></p>
-  </li>
- </ul>
+</ul>
     
   <br> 
   <!--
