@@ -8,11 +8,11 @@
 
 <ul>
  <li>
- My programming journey consists of studying both Software and Web Development at university level as well as self-teaching myself in my free time. Outside of University, I use Udemy courses and Frontend Mentor to build on my current knowledge and build my own responsive frontend projects. During my studies, I have learned the basics, such as <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>. I am on track and aim to learn about <strong>React</strong>, <strong>React Native</strong>, <strong>Typescript</strong>, and <strong>Vue</strong> to further increase my learning and workplace adaptability.
+ My programming journey consists of studying both Software and Web Development at university level as well as self-teaching myself in my free time. Outside of University, I use Udemy courses and Frontend Mentor to build on my current knowledge and build my own responsive frontend projects. During my studies, I have learnt the essentials, such as <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>. I am on track and aim to learn about <strong>React</strong>, <strong>React Native</strong>, <strong>TypeScript</strong>, and <strong>Vue</strong> to further increase my learning and workplace adaptability.
  </li>
  <br>
  <li>
-  I am fully open to collaborating on frontend-based projects with others, so please feel free to reach out. I have some experience with frontend collaboration projects that I have done during my universal studies. I would like to get some experience working on a few of these outside of school!
+  I am fully open to collaborating on frontend-based projects with others or just frontend work in general, so please feel free to reach out. I have experience with collaboration projects and working within a team during my universal studies. I would love to get some experience working on a few of these outside of an academic environment!
  </li>
  <br>
  <li>
@@ -20,7 +20,7 @@
  </li>
  <br>
  <li>
-   <p>My portfolio containing my best projects is available here: <a href="link to future portfolio here">link to future portfolio here</p>
+   <p>My portfolio, when available, will contain my best work here: <a href="link-to-future-portfolio-here">N/A (Coming Soon 👀)</p>
    </li>
   <br> 
 </ul>
