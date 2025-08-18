@@ -3,21 +3,24 @@
 </p>
 
 <h2 align="center" >About Me ☄️</h2>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=jxckwilsxn&label=Visits"></p>
-<h3 align="center" > My name is Jack, and I am an aspiring Frontend Web Developer currently located in Edinburgh.</h3>
+<!--<p align="center"><img src="https://komarev.com/ghpvc/?username=jxckwilsxn&label=Visits"></p>-->
+<h3 align="center" > My name is Jack, a Frontend Web Developer currently located in Edinburgh.</h3>
 
 <ul>
  <li>
- My programming journey consists of studying both Software and Web Development at university level as well as self-teaching myself in my free time. Outside of University, I use Udemy courses and Frontend Mentor to build on my current knowledge and build my own responsive frontend projects. During my studies, I have learnt the essentials, such as <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>. I am on track and aim to learn about <strong>React</strong>, <strong>React Native</strong>, <strong>TypeScript</strong>, and <strong>Vue</strong> to further increase my learning and workplace adaptability.
+  My programming journey consists of studying both Software and Web Development at university level as well as self-teaching myself in my free time. Outside of university, I use sources such as Udemy and Frontend Mentor to expand my current knowledge and build my own responsive frontend projects. I have learnt the essentials, such as <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>. I have also grasped how to use the library <strong>React JS</strong> and aim to learn about, <strong>React Native</strong>, <strong>TypeScript</strong>, and <strong>Vue</strong> to further increase my learning and workplace adaptability.
  </li>
  <br>
  <li>
-  I am fully open to collaborating on frontend-based projects with others or just frontend work in general, so please feel free to reach out. I have experience with collaboration projects and working within a team during my universal studies. I would love to get some experience working on a few of these outside of an academic environment!
+ I am fully open to frontend work or collaborating on frontend-based projects with others, so please feel free to reach out. My time at university has allowed me to gain experience through collaboration projects and know how it feels to work within a team in a programming setting. I would, however, love to get some experience working outside of an academic environment!
  </li>
+ 
  <br>
+ 
  <li>
-  I am also very interested to hear about how to apply for frontend positions and any advice from experienced developers on how to boost myself in the current job market. Any advice on these types of topics would be highly    appreciated to advance my knowledge.
+   I am also very interested to hear any advice from experienced developers so I can mould myself to be the best I can be, as well as boost myself in the current job market. Any of this sent my way would be highly appreciated.
  </li>
+ 
  <br>
  <li>
    <p>My portfolio, when available, will contain my best work here: <a href="link-to-future-portfolio-here">N/A (Coming Soon 👀)</p>
