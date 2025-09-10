@@ -20,12 +20,13 @@
  <li>
    I am also very interested to hear any advice from experienced developers so I can mould myself to be the best I can be, as well as boost myself in the current job market. Any of this sent my way would be highly appreciated.
  </li>
- 
+ <!--
  <br>
  <li>
    <p>My portfolio, when available, will contain my best work here: <a href="link-to-future-portfolio-here">N/A (Coming Soon 👀)</p>
-   </li>
-  <br> 
+ </li>
+ <br> 
+ -->
 </ul>
     
   <br> 
