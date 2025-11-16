@@ -1,11 +1,11 @@
-<h4 align="center">
+<h2 align="center">
 Hey, I'm Jack
-</h4>
+</h2>
 
 <!--<p align="center"><img src="https://komarev.com/ghpvc/?username=jxckwilsxn&label=Visits"></p>-->
-<h5 align="center" >
+<h3 align="center" >
  a Frontend Web Developer that has studied both Software and Web Development at university level, while consistently learning in my own time. I use platforms like Udemy and Frontend Mentor to expand my skills and build responsive projects.
-</h5>
+</h3>
 
 <ul>
  <li>
