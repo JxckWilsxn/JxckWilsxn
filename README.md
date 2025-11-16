@@ -17,11 +17,11 @@ In the future, I aim to learn <strong>React Native</strong>, <strong>TypeScript<
 <br>
 
 I'm open to frontend work and collaborating on frontend-focused projects, so feel free to reach out.
-My university experience has given me solid teamwork skills through collaborative software development projects.
+My university experience has given me solid teamwork skills through collaborative software development assignments.
 
 <br>
 
-I always welcome advice from experienced developers to support continous growth.
+I always welcome advice from experienced developers to support continuous growth.
  <!--
  <br>
  <li>
