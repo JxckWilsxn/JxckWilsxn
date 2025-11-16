@@ -1,27 +1,34 @@
-<h2>
-Hey, I'm Jack
+<h2 align="center">
+𝐻𝑒𝓎, 𝐼'𝓂 𝒥𝒶𝒸𝓀 💫
 </h2>
 
 <!--<p align="center"><img src="https://komarev.com/ghpvc/?username=jxckwilsxn&label=Visits"></p>-->
-<p>
- a Frontend Web Developer that has studied both Software and Web Development at university level, while consistently learning in my own time. I use platforms like Udemy and Frontend Mentor to expand my skills and build responsive projects.
+<p align="center">
+ I'm a Frontend Web Developer that has studied both Software and Web Development at university level, while consistently learning in my own time. I use platforms like Udemy and Frontend Mentor to expand my skills and build responsive projects.
 </p>
 
 <br>
+<br>
 
+<ul>
+<li>
 Along with the essentials <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>, I have experience working with the library <strong>React JS</strong>. 
-<br>
 In the future, I aim to learn <strong>React Native</strong>, <strong>TypeScript</strong>, and <strong>Vue</strong> to expand my skill set and broaden opportunities.
+</li>
 
 
 <br>
 
+<li>
 I'm open to frontend work and collaborating on frontend-focused projects, so feel free to reach out.
 My university experience has given me solid teamwork skills through collaborative software development assignments.
+</li>
 
 <br>
 
+<li>
 I always welcome advice from experienced developers to support continuous growth.
+</li>
  <!--
  <br>
  <li>
@@ -33,7 +40,7 @@ I always welcome advice from experienced developers to support continuous growth
     
   <br> 
 
-<h3 align="center">Languages & Tools 👾✍️</h3>
+<h3 align="center">𝐿𝒶𝓃𝑔𝓊𝒶𝑔𝑒𝓈 & 𝒯𝑜𝑜𝓁𝓈 👾✍️</h3>
 <p align="center">
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
