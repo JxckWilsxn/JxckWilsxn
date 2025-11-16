@@ -8,25 +8,25 @@
 
 <ul>
  <li>
-  My programming journey consists of studying both Software and Web Development at university level as well as self-teaching   myself in my free time. Outside of university, I use sources such as Udemy and Frontend Mentor to expand my current knowledge and build my own responsive frontend projects.  
+  My programming journey includes studying both Software and Web Development at university level, as well as consistently learning in my own time. I use platforms like Udemy and Frontend Mentor to expand my skills and build responsive frontend projects.  
  </li>
  
  <br>
  
  <li>
-  Along with the essentials, <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>, I have also grasped how to use the library <strong>React JS</strong>. In future, I aim to learn about, <strong>React Native</strong>, <strong>TypeScript</strong>, and <strong>Vue</strong> to further increase my learning and workplace adaptability.
+  Along with the essentials, <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>, I have experience working with <strong>React JS</strong>. In the future, I aim to learn <strong>React Native</strong>, <strong>TypeScript</strong>, and <strong>Vue</strong> to expand my skill set and broaden opportunities.
  </li>
  
 <br>
 
  <li>
- I am open to frontend work or collaborating on frontend-based projects with others, so feel free to reach out. My time at university has allowed me to gain experience through collaboration projects within a software team setting.
+ I'm open to frontend work and collaborating on frontend-focused projects, so feel free to reach out. My university experience has given me solid teamwork skills through collaborative software development projects.
  </li>
  
  <br>
  
  <li>
-   I'm always interested in hearing any advice from experienced developers so I can shape myself to be the best software engineer that I can, as well as boost myself in the current job market. Any of this sent my way is highly appreciated.
+   I always welcome advice from experienced developers to support continous growth.
  </li>
  <!--
  <br>
