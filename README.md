@@ -1,28 +1,36 @@
-<h2 align="center">
+<h2>
 Hey, I'm Jack
 </h2>
 
 <!--<p align="center"><img src="https://komarev.com/ghpvc/?username=jxckwilsxn&label=Visits"></p>-->
-<h3 align="center" >
+<p >
  a Frontend Web Developer that has studied both Software and Web Development at university level, while consistently learning in my own time. I use platforms like Udemy and Frontend Mentor to expand my skills and build responsive projects.
-</h3>
+</p>
 
-<ul>
- <li>
-  Along with the essentials, <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>, I have experience working with <strong>React JS</strong>. In the future, I aim to learn <strong>React Native</strong>, <strong>TypeScript</strong>, and <strong>Vue</strong> to expand my skill set and broaden opportunities.
- </li>
- 
+<br>
 <br>
 
- <li>
- I'm open to frontend work and collaborating on frontend-focused projects, so feel free to reach out. My university experience has given me solid teamwork skills through collaborative software development projects.
- </li>
- 
+<ul>
+<li>
+Along with the essentials <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>, I have experience working with <strong>React JS</strong>. 
+<br>
+In the future, I aim to learn <strong>React Native</strong>, <strong>TypeScript</strong>, and <strong>Vue</strong> to expand my skill set and broaden opportunities.
+</li>
+
+<br>
+
+<li>
+I'm open to frontend work and collaborating on frontend-focused projects, so feel free to reach out.
+<br>
+My university experience has given me solid teamwork skills through collaborative software development projects.
+</li>
+
  <br>
- 
+
  <li>
-   I always welcome advice from experienced developers to support continous growth.
- </li>
+ I always welcome advice from experienced developers to support continous growth.
+</li>
+ </ul>
  <!--
  <br>
  <li>
