@@ -1,18 +1,13 @@
-<h1 align="center">
-<b><i>Hello and Welcome</i></b>
-</p>
+<h4 align="center">
+Hey, I'm Jack
+</h4>
 
-<h2 align="center" >About Me ☄️</h2>
 <!--<p align="center"><img src="https://komarev.com/ghpvc/?username=jxckwilsxn&label=Visits"></p>-->
-<h3 align="center" > My name is Jack, a Frontend Web Developer currently located in Edinburgh.</h3>
+<h5 align="center" >
+ a Frontend Web Developer that has studied both Software and Web Development at university level, while consistently learning in my own time. I use platforms like Udemy and Frontend Mentor to expand my skills and build responsive projects.
+</h5>
 
 <ul>
- <li>
-  My programming journey includes studying both Software and Web Development at university level, as well as consistently learning in my own time. I use platforms like Udemy and Frontend Mentor to expand my skills and build responsive frontend projects.  
- </li>
- 
- <br>
- 
  <li>
   Along with the essentials, <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>, I have experience working with <strong>React JS</strong>. In the future, I aim to learn <strong>React Native</strong>, <strong>TypeScript</strong>, and <strong>Vue</strong> to expand my skill set and broaden opportunities.
  </li>
