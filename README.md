@@ -8,17 +8,25 @@
 
 <ul>
  <li>
-  My programming journey consists of studying both Software and Web Development at university level as well as self-teaching myself in my free time. Outside of university, I use sources such as Udemy and Frontend Mentor to expand my current knowledge and build my own responsive frontend projects. I have learnt the essentials, such as <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>. I have also grasped how to use the library <strong>React JS</strong> and aim to learn about, <strong>React Native</strong>, <strong>TypeScript</strong>, and <strong>Vue</strong> to further increase my learning and workplace adaptability.
- </li>
- <br>
- <li>
- I am fully open to frontend work or collaborating on frontend-based projects with others, so please feel free to reach out. My time at university has allowed me to gain experience through collaboration projects and know how it feels to work within a team in a programming setting. I would, however, love to get some experience working outside of an academic environment!
+  My programming journey consists of studying both Software and Web Development at university level as well as self-teaching   myself in my free time. Outside of university, I use sources such as Udemy and Frontend Mentor to expand my current knowledge and build my own responsive frontend projects.  
  </li>
  
  <br>
  
  <li>
-   I am also very interested to hear any advice from experienced developers so I can mould myself to be the best I can be, as well as boost myself in the current job market. Any of this sent my way would be highly appreciated.
+  Along with the essentials, <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>, I have also grasped how to use the library <strong>React JS</strong>. In future, I aim to learn about, <strong>React Native</strong>, <strong>TypeScript</strong>, and <strong>Vue</strong> to further increase my learning and workplace adaptability.
+ </li>
+ 
+<br>
+
+ <li>
+ I am open to frontend work or collaborating on frontend-based projects with others, so feel free to reach out. My time at university has allowed me to gain experience through collaboration projects within a software team setting.
+ </li>
+ 
+ <br>
+ 
+ <li>
+   I'm always interested in hearing any advice from experienced developers so I can shape myself to be the best software engineer that I can, as well as boost myself in the current job market. Any of this sent my way is highly appreciated.
  </li>
  <!--
  <br>
