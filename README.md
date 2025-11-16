@@ -3,34 +3,25 @@ Hey, I'm Jack
 </h2>
 
 <!--<p align="center"><img src="https://komarev.com/ghpvc/?username=jxckwilsxn&label=Visits"></p>-->
-<p >
+<p>
  a Frontend Web Developer that has studied both Software and Web Development at university level, while consistently learning in my own time. I use platforms like Udemy and Frontend Mentor to expand my skills and build responsive projects.
 </p>
 
 <br>
-<br>
 
-<ul>
-<li>
-Along with the essentials <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>, I have experience working with <strong>React JS</strong>. 
+Along with the essentials <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>, I have experience working with the library <strong>React JS</strong>. 
 <br>
 In the future, I aim to learn <strong>React Native</strong>, <strong>TypeScript</strong>, and <strong>Vue</strong> to expand my skill set and broaden opportunities.
-</li>
+
 
 <br>
 
-<li>
 I'm open to frontend work and collaborating on frontend-focused projects, so feel free to reach out.
-<br>
 My university experience has given me solid teamwork skills through collaborative software development projects.
-</li>
 
- <br>
+<br>
 
- <li>
- I always welcome advice from experienced developers to support continous growth.
-</li>
- </ul>
+I always welcome advice from experienced developers to support continous growth.
  <!--
  <br>
  <li>
