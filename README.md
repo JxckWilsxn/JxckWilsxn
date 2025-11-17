@@ -1,9 +1,9 @@
-<h2 align="center">
-𝐻𝑒𝓎, 𝐼'𝓂 𝒥𝒶𝒸𝓀 💫
+<h2 align="">
+Hey, I'm Jack 💫
 </h2>
 
 <!--<p align="center"><img src="https://komarev.com/ghpvc/?username=jxckwilsxn&label=Visits"></p>-->
-<p align="center">
+<p align="">
  I'm a Frontend Web Developer that has studied both Software and Web Development at university level, while consistently learning in my own time. I use platforms like Udemy and Frontend Mentor to expand my skills and build responsive projects.
 </p>
 
@@ -40,14 +40,15 @@ I always welcome advice from experienced developers to support continuous growth
     
   <br> 
 
-<h3 align="center">𝐿𝒶𝓃𝑔𝓊𝒶𝑔𝑒𝓈 & 𝒯𝑜𝑜𝓁𝓈 👾✍️</h3>
-<p align="center">
+<h3 align="">Languages & Tools 👾✍️</h3>
+<p align="">
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white"/>
 </p>
   <!--
    <h2>Connect with me elsewhere:</h2>
