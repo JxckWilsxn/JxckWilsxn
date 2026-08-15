@@ -20,7 +20,7 @@ Additionally, I aim to expand my tech stack with <strong>TypeScript</strong>, an
 </li>
 <br>
 <li>
-<strong>Collaboration & Availability: </strong>My university and internship experience has given me solid teamwork skills through collaborative software development assignments and production-ready frontend work. I am actively open to frontend roles, graduate opportunities, and collaboration—feel free to reach out!
+<strong>Collaboration & Availability: </strong>My university and internship experience have given me solid teamwork skills through collaborative software development assignments and production-ready frontend work. I am actively open to frontend roles, graduate opportunities, and collaboration—feel free to reach out!
 </li>
 <br>
 <li>
