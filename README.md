@@ -4,31 +4,29 @@ Hey, I'm Jack 💫
 
 <!--<p align="center"><img src="https://komarev.com/ghpvc/?username=jxckwilsxn&label=Visits"></p>-->
 <p align="">
- I'm a Frontend Web Developer that has studied both Software and Web Development at university level, while consistently learning in my own time. I use platforms like Udemy and Frontend Mentor to expand my skills and build responsive projects.
+I'm a <strong>Frontend Developer</strong> and <strong>BSc (Hons) Web Design & Development</strong> student. I bridge the gap between design concepts and clean, interactive code, specializing in building responsive and accessible user interfaces. 
+</p>
+ 
+<p>
+Beyond university, I am currently focused on scaling my existing project portfolio, applying industry-standard architecture, and deepening my understanding of core frontend patterns.
 </p>
 
-<br>
 <br>
 
 <ul>
 <li>
-Along with the essentials <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>, I have experience working with the library <strong>React JS</strong>. 
-In the future, I aim to learn <strong>React Native</strong>, <strong>TypeScript</strong>, and <strong>Vue</strong> to expand my skill set and broaden opportunities.
+<strong>Core Stack & Growth:</strong> Along with the essentials (<strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>), I build modern web applications using <strong>React JS</strong> and <strong>Tailwind CSS</strong>.
+Additionally, I aim to expand my tech stack with <strong>TypeScript</strong>, and am open to learning <strong>Vue JS</strong> to broaden career opportunities.
 </li>
-
-
 <br>
-
 <li>
-I'm open to frontend work and collaborating on frontend-focused projects, so feel free to reach out.
-My university experience has given me solid teamwork skills through collaborative software development assignments.
+<strong>Collaboration & Availability: </strong>My university and internship experience has given me solid teamwork skills through collaborative software development assignments and production-ready frontend work. I am actively open to frontend roles, graduate opportunities, and collaboration—feel free to reach out!
 </li>
-
 <br>
-
 <li>
-I always welcome advice from experienced developers to support continuous growth.
+<strong>Professional Mindset:</strong> I always welcome advice from experienced developers to support continuous growth.
 </li>
+ 
  <!--
  <br>
  <li>
@@ -50,35 +48,8 @@ I always welcome advice from experienced developers to support continuous growth
  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
  <img alt="" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white"/>
 </p>
-  <!--
-   <h2>Connect with me elsewhere:</h2>
-  <p>
-   <a href ="https://www.linkedin.com/in/jack-wilson-316b9529b/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45"</a> 
-  </p>
- -->
- 
-<!--
-<a href ="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>         
-<a href ="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>       
-<a href ="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="45" height="45"/>
- <!-- <a href ="https://reactnative.dev/"><img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="react native" width="45" height="45"/>
-<a href ="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="45" height="45" />
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="45" height="45"/>
- <!-- 
-<a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
-<a href="https://vuejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="vue" width="45" height="45"/>
-<a href="https://getbootstrap.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
-<a href="https://www.figma.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
- <!--
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" width="45" height="45"/>
- https://reactnative.dev/
-
-          
-<!-- </p> -->
 
 <!--
-**JxckWilsxn/JxckWilsxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
